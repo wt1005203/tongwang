@@ -1,0 +1,11 @@
+<ul id="gallery" class="posts aside" style="list-style: none;">
+    {{/* content of the gallery is specified by figures */}}
+    {{ .Inner }}
+</ul>
+
+<script src="/js/lightgallery.js"></script>
+<script>
+    lightGallery(document.getElementById('gallery'), {
+        /* options: https://sachinchoolur.github.io/lightgallery.js/docs/api.html#options */
+    });
+</script>

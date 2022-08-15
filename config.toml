@@ -1,0 +1,49 @@
+title = "Tong Wang"
+baseURL = "https://wt1005203.github.io/tongwang/"
+theme = "hugo-resume-theme"
+languageCode = "en-us"
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
+enableGitInfo = false
+
+[params]
+address = "Boston, MA"
+email = "sptow@channing.harvard.edu"
+favicon = "/favicon.ico"
+firstName = "Tong"
+lastName = "Wang"
+phone = "1-217-974-5103"
+profileImage = "img/TongWang_photo.png"
+showEducation = true
+showExperience = true
+showOpenSource = false
+showProjects = false
+showPublications = true
+showQr = false
+showSkills = false
+showBio = true
+showResearch = true
+
+[params.google]
+
+[params.google.analytics]
+trackerID = "XX-123446-01"
+
+[[params.handles]]
+link = "https://www.linkedin.com/in/tong-wang-6280a26a/"
+name = "LinkedIn"
+
+[[params.handles]]
+link = "https://scholar.google.com/citations?user=eh1WhmsAAAAJ&hl=en"
+name = "Google Scholar"
+
+[[params.handles]]
+link = "https://orcid.org/0000-0001-9900-0307"
+name = "Orcid"
+
+[outputs]
+home = ["HTML", "JSON"]
+
+[taxonomies]
+tag = "tags"
