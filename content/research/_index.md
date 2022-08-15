@@ -10,18 +10,18 @@ sitemap:
   weight: 0.5
 ---
 
-{{< figure src="/research_photos/Interactions_in_MC_schematic.png" width="50%" title="" >}}
+{{< figure src="research_photos/Interactions_in_MC_schematic.png" width="50%" title="" >}}
 
 Microbial communities are complex due to the multitude of species and diverse types of interactions between them. I am broadly interested in modeling microbial communities with cross-feeding interactions and predator-prey interactions. More specifically, I develop mechanistic models and machine learning methods for solving problems in microbial communities. Motivated by models in statistical physics, math, ecology, epidemiology, and machine learning, I have built computational methods for  
 ### Prediction of gut fecal metabolite levels from microbial abundance using the ecological model with trophic levels and inference of cross-feeding interactions based on the trophic model
 A mechanistic model for the gut microbiome to understand fecal metabolomic profiles?
-{{< figure src="/research_photos/trophic_GutCP.png" width="100%" title="" >}}
+{{< figure src="research_photos/trophic_GutCP.png" width="100%" title="" >}}
 
 Following the idea of trophic level in macroecology, we designed a [trophic model](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007524) that considers the sequential nutrient consumption and byproduct generation upon consumption. Using a manually-curated database of metabolite-microbe interactions (i.e. consumption or production), our model with four trophic levels generates fecal metabolomic profiles in the best agreement with the real data. Then we wonder if we can improve the prediction performance by adding new interactions or removing existing interactions in mechanistic models. To demonstrate this, we developed the algorithm [GutCP (Gut Cross-feeding Predictor)](https://www.nature.com/articles/s41467-021-21586-6) that leverages the Monte Carlo algorithm to probabilistically search for interactions to add or remove and demonstrated on the trophic model.
 
 ### Personalized prediction of metabolomic profiles of human gut microbiomes through deep learning
 Personalized prediction of fecal and blood metabolomic profiles based on deep learning methods?
-{{< figure src="/research_photos/mNODE.png" width="100%" title="" >}}
+{{< figure src="research_photos/mNODE.png" width="100%" title="" >}}
 
 Many machine learning methods have been developed to predict fecal and blood metabolomic profiles based on microbiome compositions. However, the current state-of-the-art deep learning methods have not been leveraged. In a [new study](https://www.biorxiv.org/content/10.1101/2022.06.23.497381v1), we proposed a new method — mNODE (Metabolomic profile predictor using Neural Ordinary Differential Equations), based on the state-of-the-art deep neural network models "Neural Ordinary Differential Equations". Our mNODE outperforms existing methods in predicting the metabolomic profiles on both synthetic data and real data such as human gut microbiomes and other natural microbiomes. Further, in the case of human gut microbiomes, mNODE can naturally incorporate dietary information to further enhance the prediction of metabolomic profiles. Finally, we revealed that mNODE can reveal microbe-metabolite interactions.
 
