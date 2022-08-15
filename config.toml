@@ -1,5 +1,5 @@
 title = "Tong Wang"
-baseURL = "https://wt1005203.github.io/tongwang/"
+baseURL = "https://wt1005203.github.io/tongwang"
 theme = "hugo-resume-theme"
 languageCode = "en-us"
 PygmentsCodeFences = true

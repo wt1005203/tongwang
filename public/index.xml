@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Tong Wang</title>
+    <link>https://wt1005203.github.io/tongwang/</link>
+    <description>Recent content in Home on Tong Wang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Aug 2022 18:56:13 -0500</lastBuildDate><atom:link href="https://wt1005203.github.io/tongwang/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Functional universality in slow-growing microbial communities arises from thermodynamic constraints</title>
+      <link>https://wt1005203.github.io/tongwang/publications/thermodynamic_universality/</link>
+      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://wt1005203.github.io/tongwang/publications/thermodynamic_universality/</guid>
+      <description>The dynamics of microbial communities is incredibly complex, determined by competition for metabolic substrates and cross-feeding of byproducts. Species in the community grow by harvesting energy from chemical reactions that transform substrates to products. In many anoxic environments, these reactions are close to thermodynamic equilibrium and growth is slow. To understand the community structure in these energy-limited environments, we developed a microbial community consumer-resource model incorporating energetic and thermodynamic constraints on an interconnected metabolic network.</description>
+    </item>
+    
+    <item>
+      <title>Predicting metabolomic profiles from microbial composition through neural ordinary differential equations</title>
+      <link>https://wt1005203.github.io/tongwang/publications/mnode/</link>
+      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://wt1005203.github.io/tongwang/publications/mnode/</guid>
+      <description>Characterizing the metabolic profile of a microbial community is crucial for understanding its biological function and its impact on the host or environment. Metabolomics experiments directly measuring these profiles are difficult and expensive, while sequencing methods quantifying the species composition of microbial communities are well-developed and relatively cost-effective. Computational methods that are capable of predicting metabolomic profiles from microbial compositions can save considerable efforts needed for metabolomic profiling experimentally. Yet, despite existing efforts, we still lack a computational method with high prediction power, general applicability, and great interpretability.</description>
+    </item>
+    
+    <item>
+      <title>Mitigation of SARS-CoV-2 Transmission at a Large Public University</title>
+      <link>https://wt1005203.github.io/tongwang/publications/uiuc_covid_abm/</link>
+      <pubDate>Wed, 08 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://wt1005203.github.io/tongwang/publications/uiuc_covid_abm/</guid>
+      <description>In Fall 2020, universities saw extensive transmission of SARS-CoV-2 among their populations, threatening health of the university and surrounding communities, and viability of in-person instruction. Here we report a case study at the University of Illinois at Urbana-Champaign, where a multimodal “SHIELD: Target, Test, and Tell” program, with other non-pharmaceutical interventions, was employed to keep classrooms and laboratories open. The program included epidemiological modeling and surveillance, fast/frequent testing using a novel low-cost and scalable saliva-based RT-qPCR assay for SARS-CoV-2 that bypasses RNA extraction, called covidSHIELD, and digital tools for communication and compliance.</description>
+    </item>
+    
+    <item>
+      <title>Complementary resource preferences spontaneously emerge in diauxic microbial communities</title>
+      <link>https://wt1005203.github.io/tongwang/publications/diauxic_shift/</link>
+      <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://wt1005203.github.io/tongwang/publications/diauxic_shift/</guid>
+      <description>Many microbes grow diauxically, utilizing the available resources one at a time rather than simultaneously. The properties of communities of microbes growing diauxically remain poorly understood, largely due to a lack of theory and models of such communities. Here, we develop and study a minimal model of diauxic microbial communities assembling in a serially diluted culture. We find that unlike co-utilizing communities, diauxic community assembly repeatably and spontaneously leads to communities with complementary resource preferences, namely communities where species prefer different resources as their top choice.</description>
+    </item>
+    
+    <item>
+      <title>Stochastic social behavior coupled to COVID-19 dynamics leads to waves, plateaus, and an endemic state</title>
+      <link>https://wt1005203.github.io/tongwang/publications/covid_activity_rewiring/</link>
+      <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://wt1005203.github.io/tongwang/publications/covid_activity_rewiring/</guid>
+      <description>It is well recognized that population heterogeneity plays an important role in the spread of epidemics. While individual variations in social activity are often assumed to be persistent, that is, constant in time, here we discuss the consequences of dynamic heterogeneity. By integrating the stochastic dynamics of social activity into traditional epidemiological models, we demonstrate the emergence of a new long timescale governing the epidemic, in broad agreement with empirical data.</description>
+    </item>
+    
+    <item>
+      <title>Revealing Protein-Level Functional Redundancy in the Human Gut Microbiome using Ultra-deep Metaproteomics</title>
+      <link>https://wt1005203.github.io/tongwang/publications/frp/</link>
+      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://wt1005203.github.io/tongwang/publications/frp/</guid>
+      <description>Functional redundancy is a key property of ecosystems and represents the fact that phylogenetically unrelated taxa can play similar functional roles within an ecosystem. The redundancy of potential functions of human microbiome has been recently quantified using metagenomics data. Yet, the redundancy of functions which are actually expressed within the human microbiome remains largely unexplored. Here, we quantify the protein-level functional redundancy in the human gut microbiome using metaproteomics and network approaches.</description>
+    </item>
+    
+    <item>
+      <title>Ecology-guided prediction of cross-feeding interactions in the human gut microbiome</title>
+      <link>https://wt1005203.github.io/tongwang/publications/gutcp/</link>
+      <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://wt1005203.github.io/tongwang/publications/gutcp/</guid>
+      <description>Understanding a complex microbial ecosystem such as the human gut microbiome requires information about both microbial species and the metabolites they produce and secrete. These metabolites are exchanged via a large network of cross-feeding interactions, and are crucial for predicting the functional state of the microbiome. However, till date, we only have information for a part of this network, limited by experimental throughput. Here, we propose an ecology-based computational method, GutCP, using which we predict hundreds of new experimentally untested cross-feeding interactions in the human gut microbiome.</description>
+    </item>
+    
+    <item>
+      <title>The network structure and eco-evolutionary dynamics of CRISPR-induced immune diversification</title>
+      <link>https://wt1005203.github.io/tongwang/publications/crispr/</link>
+      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://wt1005203.github.io/tongwang/publications/crispr/</guid>
+      <description>As a heritable sequence-specific adaptive immune system, CRISPR–Cas is a powerful force shaping strain diversity in host–virus systems. While the diversity of CRISPR alleles has been explored, the associated structure and dynamics of host–virus interactions have not. We explore the role of CRISPR in mediating the interplay between host–virus interaction structure and eco-evolutionary dynamics in a computational model and compare the results with three empirical datasets from natural systems. We show that the structure of the networks describing who infects whom and the degree to which strains are immune, are respectively modular (containing groups of hosts and viruses that interact strongly) and weighted-nested (specialist hosts are more susceptible to subsets of viruses that in turn also infect the more generalist hosts with many spacers matching many viruses).</description>
+    </item>
+    
+    <item>
+      <title>Modeling microbial cross-feeding at intermediate scale portrays community dynamics and species coexistence</title>
+      <link>https://wt1005203.github.io/tongwang/publications/intermediate_mc_model/</link>
+      <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://wt1005203.github.io/tongwang/publications/intermediate_mc_model/</guid>
+      <description>Social interaction between microbes can be described at many levels of details: from the biochemistry of cell-cell interactions to the ecological dynamics of populations. Choosing an appropriate level to model microbial communities without losing generality remains a challenge. Here we show that modeling cross-feeding interactions at an intermediate level between genome-scale metabolic models of individual species and consumer-resource models of ecosystems is suitable to experimental data. We applied our modeling framework to three published examples of multi-strain Escherichia coli communities with increasing complexity: uni-, bi-, and multi-directional cross-feeding of either substitutable metabolic byproducts or essential nutrients.</description>
+    </item>
+    
+    <item>
+      <title>Hitchhiking, collapse, and contingency in phage infections of migrating bacterial populations</title>
+      <link>https://wt1005203.github.io/tongwang/publications/phage_hitchhiking/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://wt1005203.github.io/tongwang/publications/phage_hitchhiking/</guid>
+      <description>Natural bacterial populations are subjected to constant predation pressure by bacteriophages. Bacteria use a variety of molecular mechanisms to defend themselves from phage predation. However, since phages are nonmotile, perhaps the simplest defense against phage is for bacteria to move faster than phages. In particular, chemotaxis, the active migration of bacteria up attractant gradients, may help the bacteria escape slowly diffusing phages. Here we study phage infection dynamics in migrating bacterial populations driven by chemotaxis through low viscosity agar plates.</description>
+    </item>
+    
+    <item>
+      <title>Evidence for a multi-level trophic organization of the human gut microbiome</title>
+      <link>https://wt1005203.github.io/tongwang/publications/trophic_model/</link>
+      <pubDate>Thu, 19 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wt1005203.github.io/tongwang/publications/trophic_model/</guid>
+      <description>The human gut microbiome is a complex ecosystem, in which hundreds of microbial species and metabolites coexist, in part due to an extensive network of cross-feeding interactions. However, both the large-scale trophic organization of this ecosystem, and its effects on the underlying metabolic flow, remain unexplored. Here, using a simplified model, we provide quantitative support for a multi-level trophic organization of the human gut microbiome, where microbes consume and secrete metabolites in multiple iterative steps.</description>
+    </item>
+    
+    <item>
+      <title>Forcing Visits to use SSL</title>
+      <link>https://wt1005203.github.io/tongwang/blog/force-ssl/</link>
+      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
+      
+      <guid>https://wt1005203.github.io/tongwang/blog/force-ssl/</guid>
+      <description>Intro Doesn&amp;rsquo;t matter whether it&amp;rsquo;s a CakePHP app for a client, your own personal CMS, or any other web based application. If your passing around passwords or other sensitive info you should really implement SSL. SSL provides 2 main perks to your visitors.
+First it encrypts all communication that flies across the web. This prevents curious or devious billies from getting your secrets. Secondly it ensures to the user that your server is in fact who it claims, and not a nasty &amp;lsquo;man in the middle&amp;quot; attack.</description>
+    </item>
+    
+    <item>
+      <title>Search Results</title>
+      <link>https://wt1005203.github.io/tongwang/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wt1005203.github.io/tongwang/search/</guid>
+      <description>This file exists solely to respond to /search URL with the related search layout template.
+No content shown here is rendered, all content is based in the template layouts/page/search.html
+Setting a very low sitemap priority will tell search engines this is not important content.
+This implementation uses Fusejs, jquery and mark.js
+Initial setup Search depends on additional output content type of JSON in config.toml
+[outputs] home = [&amp;#34;HTML&amp;#34;, &amp;#34;JSON&amp;#34;] Searching additional fileds To search additional fields defined in front matter, you must add it in 2 places.</description>
+    </item>
+    
+  </channel>
+</rss>
