@@ -3,7 +3,7 @@ title: "Mitigation of SARS-CoV-2 Transmission at a Large Public University"
 date: 2022-06-08
 pubtype: "Article"
 featured: true
-description: "Diana Rose Ranoa, Robin Holland, Fadi Alnaji, Kelsie Green, Leyi Wang, Richard Fredrickson, <b>Tong Wang</b>, George Wong, Johnny Uelmen, Sergei Maslov, et al., <i>Nature Communications, 2022</i>"
+description: "Diana Rose Ranoa, Robin Holland, Fadi Alnaji, Kelsie Green, Leyi Wang, Richard Fredrickson, <b>Tong Wang</b>, George Wong, Johnny Uelmen, Sergei Maslov, et al., <i><b>Nature Communications</b>, 2022</i>"
 tags: #["COVID","Agent-based model"]
 image: #"/img/organicdevops.webp"
 link: "https://www.nature.com/articles/s41467-022-30833-3"

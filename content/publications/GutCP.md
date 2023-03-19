@@ -3,7 +3,7 @@ title: "Ecology-guided prediction of cross-feeding interactions in the human gut
 date: 2021-02-26
 pubtype: "Article"
 featured: true
-description: "Akshit Goyal*, <b>Tong Wang</b>*, Veronika Dubinkina, and Sergei Maslov, <i>Nature Communications, 2021</i>"
+description: "Akshit Goyal*, <b>Tong Wang</b>*, Veronika Dubinkina, and Sergei Maslov, <i><b>Nature Communications</b>, 2021</i>"
 tags: #["COVID","Agent-based model"]
 image: #"/img/organicdevops.webp"
 link: "https://www.nature.com/articles/s41467-021-21586-6"

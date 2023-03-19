@@ -3,7 +3,7 @@ title: "The network structure and eco-evolutionary dynamics of CRISPR-induced im
 date: 2020-10-19
 pubtype: "Article"
 featured: true
-description: "Shai Pilosof, Sergio A. Alcala-Corona, <b>Tong Wang</b>, Ted Kim, Sergei Maslov, Rachel Whitaker, and Mercedes Pascual, <i>Nature Ecology and Evolution, 2020</i>"
+description: "Shai Pilosof, Sergio A. Alcala-Corona, <b>Tong Wang</b>, Ted Kim, Sergei Maslov, Rachel Whitaker, and Mercedes Pascual, <i><b>Nature Ecology and Evolution</b>, 2020</i>"
 tags: #["COVID","Agent-based model"]
 image: #"/img/organicdevops.webp"
 link: "https://www.nature.com/articles/s41559-020-01312-z"
