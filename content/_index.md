@@ -8,7 +8,7 @@ outputs:
 - rss
 - json
 ---
-I am currently a postdoctoral research fellow at [Yang-Yu Liu’s](https://scholar.harvard.edu/yyl) lab at Brigham and Women’s Hospital and Harvard Medical School. I am interested in developing mechanistic models and machine learning methods for solving problems in microbial communities.
+I am currently a postdoctoral research fellow at [Yang-Yu Liu’s](https://yangyuliu.bwh.harvard.edu/) lab at Brigham and Women’s Hospital and Harvard Medical School. I am interested in developing mechanistic models and machine learning methods for solving problems in microbial communities.
 
 {{< figure src="personal_photos/Tucson1.jpeg" width="60%" title="" >}}
 

@@ -3,7 +3,7 @@ title: "Pairing Metagenomics and Metaproteomics to Pinpoint Ecological Niches an
 date: 2022-11-05
 pubtype: "Preprint"
 featured: true
-description: "<b>Tong Wang</b>*, Leyuan Li*, Daniel Figeys, Yang-Yu Liu, <i>bioRxiv, 2022</i>"
+description: "<b>Tong Wang</b>*, Leyuan Li*, Daniel Figeys, Yang-Yu Liu, <i><b>In Revision at ISME Journal</b>, 2022</i>"
 tags: #["niche","metaproteome"]
 image: #"/img/organicdevops.webp"
 link: "https://www.biorxiv.org/content/10.1101/2022.11.04.515228v1.abstract"

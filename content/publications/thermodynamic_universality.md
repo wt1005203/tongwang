@@ -1,12 +1,12 @@
 ---
 title: "Functional universality in slow-growing microbial communities arises from thermodynamic constraints"
-date: 2022-07-15
-pubtype: "Preprint"
+date: 2023-06-28
+pubtype: "Article"
 featured: true
-description: "Ashish George, <b>Tong Wang</b>, Sergei Maslov, <i>bioRxiv, 2022</i>"
+description: "Ashish George, <b>Tong Wang</b>, Sergei Maslov, <i><b>ISME Journal</b>, 2023</i>"
 tags: #["COVID","Agent-based model"]
 image: #"/img/organicdevops.webp"
-link: "https://www.biorxiv.org/content/10.1101/2022.03.11.483989v3"
+link: "https://www.nature.com/articles/s41396-023-01455-4"
 fact: "Interesting little tidbit shown below image on summary and detail page"
 weight: 400
 sitemap:
