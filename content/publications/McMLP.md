@@ -1,9 +1,9 @@
 ---
 title: "Predicting metabolic response to dietary intervention using deep learning"
-date: 2023-03-15
+date: 2024-05-11
 pubtype: "Preprint"
 featured: true
-description: "<b>Tong Wang</b>, Hannah D. Holscher, Sergei Maslov, Frank B. Hu, Scott T. Weiss, Yang-Yu Liu, <i><b>In Revision at Nature Communications</b>, 2023</i>"
+description: "<b>Tong Wang</b>, Hannah D. Holscher, Sergei Maslov, Frank B. Hu, Scott T. Weiss, Yang-Yu Liu, <i><b>In Press Nature Communications</b>, 2024</i>"
 tags: #["COVID","Agent-based model"]
 image: #"/img/organicdevops.webp"
 link: "https://www.biorxiv.org/content/10.1101/2023.03.14.532589v1"
