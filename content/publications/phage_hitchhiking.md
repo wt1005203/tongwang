@@ -3,7 +3,7 @@ title: "Hitchhiking, collapse, and contingency in phage infections of migrating 
 date: 2020-05-01
 pubtype: "Article"
 featured: true
-description: "Derek Ping*, <b>Tong Wang</b>*, David T Fraebel, Sergei Maslov, Kim Sneppen, and Seppe Kuehn, <i><b>ISME Journal</b>, 2020</i>"
+description: "Derek Ping*, <mark><b>Tong Wang*</b></mark>, David T Fraebel, Sergei Maslov, Kim Sneppen, Seppe Kuehn, <i><b>ISME Journal</b>, 2020</i>"
 tags: #["COVID","Agent-based model"]
 image: #"/img/organicdevops.webp"
 link: "https://www.nature.com/articles/s41396-020-0664-9"

@@ -3,7 +3,7 @@ title: "Stochastic social behavior coupled to COVID-19 dynamics leads to waves, 
 date: 2021-11-08
 pubtype: "Article"
 featured: true
-description: "Alexei Tkachenko, Sergei Maslov, <b>Tong Wang</b>, Ahmed Elbanna, George Wong, and Nigel Goldenfeld, <i><b>eLife</b>, 2021</i>"
+description: "Alexei Tkachenko, Sergei Maslov, <mark><b>Tong Wang</b></mark>, Ahmed Elbanna, George Wong, Nigel Goldenfeld, <i><b>eLife</b>, 2021</i>"
 tags: #["COVID","Agent-based model"]
 image: #"/img/organicdevops.webp"
 link: "https://elifesciences.org/articles/68341"

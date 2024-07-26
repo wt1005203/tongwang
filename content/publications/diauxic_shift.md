@@ -3,7 +3,7 @@ title: "Complementary resource preferences spontaneously emerge in diauxic micro
 date: 2021-11-18
 pubtype: "Article"
 featured: true
-description: "Zihan Wang, Akshit Goyal, Veronika Dubinkina, Ashish George, <b>Tong Wang</b>, Yulia Fridman, and Sergei Maslov, <i><b>Nature Communications</b>, 2021</i>"
+description: "Zihan Wang, Akshit Goyal, Veronika Dubinkina, Ashish George, <mark><b>Tong Wang</b></mark>, Yulia Fridman, Sergei Maslov, <i><b>Nature Communications</b>, 2021</i>"
 tags: #["COVID","Agent-based model"]
 image: #"/img/organicdevops.webp"
 link: "https://www.nature.com/articles/s41467-021-27023-y"

@@ -3,7 +3,7 @@ title: "Modeling microbial cross-feeding at intermediate scale portrays communit
 date: 2020-08-18
 pubtype: "Article"
 featured: true
-description: "Chen Liao, <b>Tong Wang</b>, Sergei Maslov, and Joao Xavier, <i><b>PLoS Computational Biology</b>, 2020</i>"
+description: "Chen Liao, <mark><b>Tong Wang</b></mark>, Sergei Maslov, Joao Xavier, <i><b>PLoS Computational Biology</b>, 2020</i>"
 tags: #["COVID","Agent-based model"]
 image: #"/img/organicdevops.webp"
 link: "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008135"

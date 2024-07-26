@@ -1,9 +1,9 @@
 ---
-title: "Revealing Protein-Level Functional Redundancy in the Human Gut Microbiome using Ultra-deep Metaproteomics"
+title: "Revealing proteome-level functional redundancy in the human gut microbiome using ultra-deep metaproteomics"
 date: 2023-06-10
 pubtype: "Article"
 featured: true
-description: "Leyuan Li*, <b>Tong Wang</b>*, Zhibin Ning, Xu Zhang, James Butcher, Caitlin Simopoulos, Janice Mayne, Alain Stintzi, David R. Mack, Yang-Yu Liu, Daniel Figeys, <i><b>Nature Communications</b>, 2023</i>"
+description: "Leyuan Li*, <mark><b>Tong Wang*</b></mark>, Zhibin Ning, Xu Zhang, James Butcher, Caitlin Simopoulos, Janice Mayne, Alain Stintzi, David R. Mack, Yang-Yu Liu, Daniel Figeys, <i><b>Nature Communications</b>, 2023</i>"
 tags: #["COVID","Agent-based model"]
 image: #"/img/organicdevops.webp"
 link: "https://www.nature.com/articles/s41467-023-39149-2"

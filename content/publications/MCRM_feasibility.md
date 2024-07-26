@@ -3,10 +3,10 @@ title: "Feasibility in MacArthur’s consumer-resource model"
 date: 2023-07-22
 pubtype: "Article"
 featured: true
-description: "Andrea Aparicio, <b>Tong Wang</b>, Serguei Saavedra, Yang-Yu Liu, Scott T. Weiss,  <i><b>Theoretical Ecology</b>, 2023</i>"
+description: "Andrea Aparicio, <mark><b>Tong Wang</b></mark>, Serguei Saavedra, Yang-Yu Liu, Scott T. Weiss,  <i><b>Theoretical Ecology</b>, 2023</i>"
 tags: #["COVID","Agent-based model"]
 image: #"/img/organicdevops.webp"
-link: "https://link.springer.com/article/10.1186/s12931-023-02368-8"
+link: "https://link.springer.com/article/10.1007/s12080-023-00566-0"
 fact: "Interesting little tidbit shown below image on summary and detail page"
 weight: 400
 sitemap:

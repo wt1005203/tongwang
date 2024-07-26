@@ -1,9 +1,9 @@
 ---
-title: "Pairing Metagenomics and Metaproteomics to Characterize Ecological Niches and Metabolic Essentiality of Gut Microbiomes"
+title: "Pairing metagenomics and metaproteomics to characterize ecological niches and metabolic essentiality of gut microbiomes"
 date: 2024-05-01
 pubtype: "Article"
 featured: true
-description: "<b>Tong Wang</b>*, Leyuan Li*, Daniel Figeys, Yang-Yu Liu, <i><b>ISME Communications</b>, 2024</i>"
+description: "<mark><b>Tong Wang</b>*</mark>, Leyuan Li*, Daniel Figeys, Yang-Yu Liu, <i><b>ISME Communications</b>, 2024</i>"
 tags: #["niche","metaproteome"]
 image: #"/img/organicdevops.webp"
 link: "https://academic.oup.com/ismecommun/advance-article/doi/10.1093/ismeco/ycae063/7660938"

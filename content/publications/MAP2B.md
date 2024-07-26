@@ -3,7 +3,7 @@ title: "Removal of false positives in metagenomics-based taxonomy profiling via 
 date: 2023-09-01
 pubtype: "Article"
 featured: true
-description: "Zheng Sun, Jiang Liu, Meng Zhang, <b>Tong Wang</b>, Shi Huang, Scott T. Weiss, Yang-Yu Liu, <i><b>Nature Communications</b>, 2023</i>"
+description: "Zheng Sun, Jiang Liu, Meng Zhang, <mark><b>Tong Wang</b></mark>, Shi Huang, Scott T. Weiss, Yang-Yu Liu, <i><b>Nature Communications</b>, 2023</i>"
 tags: #["niche","metaproteome"]
 image: #"/img/organicdevops.webp"
 link: "https://www.nature.com/articles/s41467-023-41099-8"

@@ -3,7 +3,7 @@ title: "Benchmarking omics-based prediction of asthma development in children"
 date: 2023-02-26
 pubtype: "Article"
 featured: true
-description: "Xu-Wen Wang, <b>Tong Wang</b>, Darius P. Schaub, Can Chen, Zheng Sun, Shanlin Ke, Julian Hecker, Anna Maaser-Hecker, Oana A. Zeleznik, Roman Zeleznik, Augusto A. Litonjua, Dawn L. DeMeo, Jessica Lasky-Su, Edwin K. Silverman, Yang-Yu Liu, Scott T. Weiss,  <i><b>Respiratory Research</b>, 2023</i>"
+description: "Xu-Wen Wang, <mark><b>Tong Wang</b></mark>, Darius P. Schaub, Can Chen, Zheng Sun, Shanlin Ke, Julian Hecker, Anna Maaser-Hecker, Oana A. Zeleznik, Roman Zeleznik, Augusto A. Litonjua, Dawn L. DeMeo, Jessica Lasky-Su, Edwin K. Silverman, Yang-Yu Liu, Scott T. Weiss,  <i><b>Respiratory Research</b>, 2023</i>"
 tags: #["COVID","Agent-based model"]
 image: #"/img/organicdevops.webp"
 link: "https://link.springer.com/article/10.1186/s12931-023-02368-8"

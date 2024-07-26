@@ -8,7 +8,7 @@ outputs:
 - rss
 - json
 ---
-I am currently a postdoctoral research fellow at [Yang-Yu Liu’s](https://yangyuliu.bwh.harvard.edu/) lab at Brigham and Women’s Hospital and Harvard Medical School. I am interested in developing mechanistic models and machine learning methods for solving problems in microbial communities.
+I am currently a postdoctoral research fellow at Brigham and Women’s Hospital and Harvard Medical School, working under the supervision of [Prof. Yang-Yu Liu](https://yangyuliu.bwh.harvard.edu/). My work is at the exciting **intersection of computational biology, microbiology, and ecology**, where I develop both mechanistic models and machine-learning methods to tackle **complex problems related to microbial communities**. My primary focus is to explore the intricate **relationships between diet, microbiome, metabolites, and disease**. By modeling these microbial ecosystems and integrating diverse omics data, I aim to unravel the complex dynamics of these communities and their pivotal roles in human health.
 
 {{< figure src="personal_photos/Tucson1.jpeg" width="60%" title="" >}}
 

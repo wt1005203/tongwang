@@ -3,7 +3,7 @@ title: "Evidence for a multi-level trophic organization of the human gut microbi
 date: 2019-12-19
 pubtype: "Article"
 featured: true
-description: "<b>Tong Wang</b>*, Akshit Goyal*, Veronika Dubinkina, and Sergei Maslov, <i><b>PLoS Computational Biology</b>, 2019</i>"
+description: "<mark><b>Tong Wang*</b></mark>, Akshit Goyal*, Veronika Dubinkina, Sergei Maslov, <i><b>PLoS Computational Biology</b>, 2019</i>"
 tags: #["COVID","Agent-based model"]
 image: #"/img/organicdevops.webp"
 link: "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007524"

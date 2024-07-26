@@ -3,7 +3,7 @@ title: "Predicting metabolomic profiles from microbial composition through neura
 date: 2023-03-13
 pubtype: "Article"
 featured: true
-description: "<b>Tong Wang</b>, Xu-Wen Wang, Augusto A. Litonjua, Kathleen Lee-Sarwar, Scott T. Weiss, Yizhou Sun, Sergei Maslov, Yang-Yu Liu, <i><b>Nature Machine Intelligence</b>, 2023</i>"
+description: "<mark><b>Tong Wang</b></mark>, Xu-Wen Wang, Augusto A. Litonjua, Kathleen Lee-Sarwar, Scott T. Weiss, Yizhou Sun, Sergei Maslov, Yang-Yu Liu, <i><b>Nature Machine Intelligence</b>, 2023</i>"
 tags: #["COVID","Agent-based model"]
 image: #"/img/organicdevops.webp"
 link: "https://www.nature.com/articles/s42256-023-00627-3"
