@@ -1,12 +1,12 @@
 ---
 title: "Microbiome-based correction for random errors in nutrient profiles derived from self-reported dietary assessments"
-date: 2024-01-23
-pubtype: "Preprint"
+date: 2024-10-22
+pubtype: "Article"
 featured: true
-description: "<mark><b>Tong Wang</b></mark>, Yuanqing Fu, Menglei Shuai, Ju-Sheng Zheng, Lu Zhu, Qi Sun, Frank B. Hu, Scott T. Weiss, Yang-Yu Liu, <i>Under Review and Revision at <b>Nature Communications</b>, 2024</i>"
+description: "<mark><b>Tong Wang</b></mark>, Yuanqing Fu, Menglei Shuai, Ju-Sheng Zheng, Lu Zhu, Qi Sun, Frank B. Hu, Scott T. Weiss, Yang-Yu Liu, <i><b>Nature Communications</b>, 2024</i>"
 tags: #["niche","metaproteome"]
 image: #"/img/organicdevops.webp"
-link: "https://www.biorxiv.org/content/10.1101/2023.11.21.568102v2"
+link: "https://www.nature.com/articles/s41467-024-53567-w"
 fact: "Interesting little tidbit shown below image on summary and detail page"
 weight: 400
 sitemap:
