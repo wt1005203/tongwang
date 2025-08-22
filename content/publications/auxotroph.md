@@ -1,9 +1,9 @@
 ---
 title: "Higher-order interactions in auxotroph communities enhance their resilience to resource fluctuations"
-date: 2024-05-26
+date: 2025-08-11
 pubtype: "Preprint"
 featured: true
-description: "<mark><b>Tong Wang</b></mark>, Ashish B. George, Sergei Maslov, Under Review at <i><b>Cell Systems</b>, 2024</i>"
+description: "<mark><b>Tong Wang</b></mark>, Ashish B. George, Sergei Maslov, In Press at <i><b>Cell Systems</b>, 2025</i>"
 tags: #["niche","metaproteome"]
 image: #"/img/organicdevops.webp"
 link: "https://www.biorxiv.org/content/10.1101/2024.05.22.595348v1"

@@ -8,8 +8,8 @@ PygmentsStyle = "monokai"
 enableGitInfo = false
 
 [params]
-address = "Boston, MA"
-email = "sptow@channing.harvard.edu"
+address = "West Lafayette, IN"
+email = "wang7403@purdue.edu"
 favicon = "/favicon.ico"
 firstName = "Tong"
 lastName = "Wang"

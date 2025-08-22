@@ -1,9 +1,15 @@
 [
     {
+        "role":"Assistant Professor",
+        "company":"Department of Biological Sciences, Purdue University",
+        "summary":" My research focuses on exploring diet-microbe-metabolite-host interactions.",
+        "range":"August 2025 - Present"
+    },
+    {
         "role":"Postdoctoral Research Fellow",
         "company":"Brigham and Women's Hospital, Harvard Medical School",
         "summary":"Working in the lab of [Prof. Yang-Yu Liu](https://yangyuliu.bwh.harvard.edu/), my research focuses on developing advanced computational methods for microbiome-targeted translational research. Key projects include: \n- Predicting metabolomic profiles through deep learning models \n- Creating predictive models suitable for precision nutrition \n- Leveraging metaproteome to understand functional redundancy \n- Advancing omics-based techniques for the diagnosis of diseases",
-        "range":"June 2021 - Present"
+        "range":"June 2021 - May 2025"
     },
     {
         "role":"Graduate Research Assistant",
