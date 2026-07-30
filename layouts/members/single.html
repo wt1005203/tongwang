@@ -1,0 +1,75 @@
+{{ define "main" }}
+{{ partial "breadcrumbs" . }}
+<section class="resume-section p-3 p-lg-5 d-flex d-column content member-profile" id="{{ urlize .Title }}">
+  <div class="my-auto">
+    <div class="resume-item d-flex flex-column flex-md-row mb-4">
+      <div class="member-profile-photo-wrap mr-md-4 mb-3 mb-md-0">
+        {{ with .Params.image }}
+          <img class="member-profile-photo" src="{{ . | relURL }}" alt="{{ $.Title }}" style="width:210px;height:210px;max-width:210px;min-width:210px;border-radius:50%;object-fit:cover;object-position:{{ default "center center" $.Params.image_position }};display:block;">
+        {{ else }}
+          <div class="member-profile-photo member-profile-photo-placeholder" aria-label="{{ $.Title }} profile placeholder">{{ with $.Params.initials }}{{ . }}{{ else }}{{ substr $.Title 0 1 }}{{ end }}</div>
+        {{ end }}
+      </div>
+      <div class="member-profile-header">
+        <h1 class="mb-0"><span class="text-primary">{{ .Title }}</span></h1>
+        {{ with .Params.role }}<div class="subheading mb-3">{{ . }}</div>{{ end }}
+        <p>{{ .Description | safeHTML }}</p>
+        <p class="member-links">
+          {{ with .Params.email }}<a href="mailto:{{ . }}">Email</a>{{ end }}
+          {{ if and .Params.email .Params.cv }} · {{ end }}
+          {{ with .Params.cv }}<a href="{{ . | relURL }}">CV</a>{{ end }}
+        </p>
+      </div>
+    </div>
+
+    {{ if or .Params.department_program .Params.research_interests .Params.joined .Params.email .Params.contact .Params.contact_me_about .Params.hobbies .Params.lab_role .Params.specialties }}
+    <div class="member-profile-details mb-4">
+      <h2>Profile</h2>
+      <dl class="member-detail-list">
+        {{ with .Params.lab_role }}
+          <dt>Lab Role</dt>
+          <dd>{{ . | markdownify }}</dd>
+        {{ end }}
+        {{ with .Params.department_program }}
+          <dt>Department/Program</dt>
+          <dd>{{ . | markdownify }}</dd>
+        {{ end }}
+        {{ with .Params.research_interests }}
+          <dt>Research Interests</dt>
+          <dd>{{ . | markdownify }}</dd>
+        {{ end }}
+        {{ with .Params.specialties }}
+          <dt>Specialties</dt>
+          <dd>{{ . | markdownify }}</dd>
+        {{ end }}
+        {{ with .Params.joined }}
+          <dt>Joined</dt>
+          <dd>{{ . | markdownify }}</dd>
+        {{ end }}
+        {{ with .Params.contact_me_about }}
+          <dt>Contact me about</dt>
+          <dd>{{ . | markdownify }}</dd>
+        {{ end }}
+        {{ with .Params.email }}
+          <dt>Contact</dt>
+          <dd><a href="mailto:{{ . }}">{{ . }}</a></dd>
+        {{ else }}
+          {{ with .Params.contact }}
+            <dt>Contact</dt>
+            <dd>{{ . | markdownify }}</dd>
+          {{ end }}
+        {{ end }}
+        {{ with .Params.hobbies }}
+          <dt>Hobbies</dt>
+          <dd>{{ . | markdownify }}</dd>
+        {{ end }}
+      </dl>
+    </div>
+    {{ end }}
+
+    {{ with .Content }}
+      {{ . }}
+    {{ end }}
+  </div>
+</section>
+{{ end }}

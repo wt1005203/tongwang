@@ -1,0 +1,15 @@
+<h3 class="mb-3"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+<div class="resume-item d-flex flex-column flex-md-row mb-3 member-card">
+  <div class="resume-content member-photo-wrap">
+    {{ with .Params.image }}
+      <img class="member-photo" src="{{ . | relURL }}" alt="{{ $.Title }}" style="width:150px;height:150px;max-width:150px;min-width:150px;border-radius:50%;object-fit:cover;object-position:{{ default "center center" $.Params.image_position }};display:block;">
+    {{ else }}
+      <div class="member-photo member-photo-placeholder" aria-label="{{ $.Title }} profile placeholder">{{ with $.Params.initials }}{{ . }}{{ else }}{{ substr $.Title 0 1 }}{{ end }}</div>
+    {{ end }}
+  </div>
+  <div class="resume-date member-summary">
+    {{ with .Params.role }}<p class="member-role"><strong>{{ . }}</strong></p>{{ end }}
+    <p>{{ .Description | safeHTML }}</p>
+    <p><a href="{{ .Permalink }}">View profile</a></p>
+  </div>
+</div>

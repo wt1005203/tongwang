@@ -1,0 +1,49 @@
+{{ define "main" }}
+{{ partial "breadcrumbs" . }}
+<section class="resume-section p-3 p-lg-5 d-flex flex-column">
+  <div class="my-auto" id="projects-content">
+    <h1 id="{{ urlize .Title }}">{{ .Title }}</h1>
+    <div>{{ .Content }}</div>
+    {{ range .Data.Pages.ByWeight }}
+      {{ if ne .Type "markdown" }}
+        {{ partial (printf "%s%s" .Type "Summary") . }}
+      {{ end }}
+    {{ end }}
+    {{ if and (eq .Section "members") .Params.alumni }}
+      <div class="members-alumni mt-5">
+        <span id="alumni" class="anchor-compat"></span>
+        <h2 id="former-members">Former members</h2>
+        <div class="table-responsive">
+          <table class="alumni-table">
+            <thead>
+              <tr>
+                <th>Name</th>
+                <th>Role</th>
+                <th>First position after SIM Lab</th>
+              </tr>
+            </thead>
+            <tbody>
+              {{ range .Params.alumni }}
+                <tr>
+                  <td>{{ .name | markdownify }}</td>
+                  <td>{{ .program | markdownify }}</td>
+                  <td>{{ .current_status | markdownify }}</td>
+                </tr>
+              {{ end }}
+            </tbody>
+          </table>
+        </div>
+      </div>
+    {{ end }}
+    {{ range .Sections }}
+      <h2 id="{{ urlize .Title }}"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+      <div>{{ .Content }}</div>
+      {{ range .Pages.ByWeight }}
+        {{ if ne .Type "markdown" }}
+          {{ partial (printf "%s%s" .Type "Summary") . }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  </div>
+</section>
+{{ end }}

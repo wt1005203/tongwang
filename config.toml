@@ -1,4 +1,4 @@
-title = "Tong Wang"
+title = "SIM Lab"
 baseURL = "https://wt1005203.github.io/tongwang/"
 theme = "hugo-resume-theme"
 languageCode = "en-us"
@@ -11,18 +11,25 @@ enableGitInfo = false
 address = "West Lafayette, IN"
 email = "wang7403@purdue.edu"
 favicon = "/favicon.ico"
-firstName = "Tong"
-lastName = "Wang"
+firstName = "SIM"
+lastName = "Lab"
 phone = "1-217-974-5103"
-profileImage = "img/TongWang_photo.png"
-showEducation = true
-showExperience = true
+profileImage = "img/SIM_Lab_logo.png"
+labNamePrefix = "SIM"
+labNameAccent = "Lab"
+labFullName = "Systems and Interactions of Microbiomes Lab"
+labSubtitle = "Microbiome · Machine learning · Diet–microbe–metabolite–host interactions · Bacteria–phage interactions"
+description = "The Systems and Interactions of Microbiomes Lab (SIM Lab) at Purdue University develops mechanistic models, machine-learning methods, and experimental systems to understand interactions among diet, microbes, metabolites, and the host."
+showMembers = true
+showOpportunities = true
+showEducation = false
+showExperience = false
 showOpenSource = false
 showProjects = false
 showPublications = true
 showQr = false
 showSkills = false
-showBio = true
+showBio = false
 showResearch = true
 
 [params.google]
