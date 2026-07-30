@@ -8,7 +8,7 @@ sitemap:
   weight: 0.6
 ---
 
-We are actively recruiting motivated researchers who are excited about microbiome ecology, computational biology, machine learning, microbial interactions, and multi-omics data integration. For inquiries, please contact **Tong Wang** at [wang7403@purdue.edu](mailto:wang7403@purdue.edu).
+We are actively recruiting motivated researchers who are excited about microbiome science, computational biology, machine learning, microbial interactions, and multi-omics data integration. For inquiries, please contact **Tong Wang** at [wang7403@purdue.edu](mailto:wang7403@purdue.edu).
 
 ### Graduate students
 Prospective Ph.D. students interested in computational microbiome research, experimental microbiology, or combined computational–experimental projects are encouraged to contact the lab and apply to the [graduate programs in Purdue’s Department of Biological Sciences](https://www.bio.purdue.edu/Academic/graduate/prospective-students-new.html). In your email, please include a brief description of your research interests, relevant experience, and why the SIM Lab is a good fit.

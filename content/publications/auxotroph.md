@@ -6,7 +6,7 @@ featured: true
 description: "<mark><b>Tong Wang</b></mark>, Ashish B. George, Sergei Maslov, <i><b>Cell Systems</b>, 2026</i>"
 tags: #["niche","metaproteome"]
 image: #"/img/organicdevops.webp"
-link: "https://www.cell.com/cell-systems/abstract/S2405-4712(25)00324-2"
+link: "https://doi.org/10.1016/j.cels.2025.101491"
 fact: "Interesting little tidbit shown below image on summary and detail page"
 weight: 400
 sitemap:

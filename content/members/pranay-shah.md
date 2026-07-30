@@ -13,5 +13,5 @@ contact: "shah1083@purdue.edu"
 contact_me_about: "To be updated"
 hobbies: "To be updated"
 joined: "Spring 2026"
-description: "Undergraduate student in the Department of Psychological Sciences."
+description: "Undergraduate student in the Department of Biological Sciences."
 ---

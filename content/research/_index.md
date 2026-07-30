@@ -45,15 +45,25 @@ In the past, studies of phage infection in space focused on how phages attack no
 We sought to understand how the phage could create the large central region of the colony where the bacterial population had collapsed. Existing theories based on studies with non-motile bacteria showed that phage could not move over such large distances (centimeters) in such short periods of time (hours) without being actively transported. Therefore, we speculated that the phages travel along with migrating bacteria either during the latent period of infection or while attached to the cell prior to injection. To test this hypothesis, I built [a mathematical model that included the ability of phages to “hitchhike” with migrating bacteria](https://www.nature.com/articles/s41396-020-0664-9). The model confirmed our hypothesis, providing a new perspective on phage-bacterial interactions within moving bacterial colonies.
 
 ### Other Research Endeavors
-Besides, I studied the ecological and evolutionary dynamics influenced by interactions within microbial communities:
-* Ecological models of microbial exchange of essential nutrients
-* Models of microbial cross-feeding at an intermediate scale mediated by carbon sources like acetate and amino acids
-* CRISPR-induced arms-race co-evolution between bacteria and viruses: network structure, regime shift, and influence of phage migration
+Studying interactions of the human gut microbiome and ecological-evolutionary dynamics induced by interactions within microbial communities:
+* [The computational inference of interactions between microbes, metabolites, and dietary compounds](https://doi.org/10.1186/s40168-025-02312-6)
+* [Ecological models of microbial exchange of essential nutrients](https://doi.org/10.1016/j.cels.2025.101491)
+* [The role of thermodynamic constraints on the assembly of microbial communities](https://doi.org/10.1038/s41396-023-01455-4)
+* [Models of microbial cross-feeding at an intermediate scale mediated by carbon sources like acetate and amino acids](https://doi.org/10.1371/journal.pcbi.1008135)
+* [The ecological and evolutionary dynamics of diauxic microbial communities](https://doi.org/10.1038/s41467-021-27023-y)
+* [CRISPR-induced arms-race co-evolution between microbes and viruses](https://doi.org/10.1038/s41559-020-01312-z)
 
-I also worked on  COVID-related projects and disease diagnostics:
-* Agent-based model for the University of Illinois at Urbana-Champaign
-* Data analysis of internal COVID case data for operational purposes
-* Prediction of asthma status based on infants' multi-omics data
+Machine learning for microbiome research:
+* [Artificial intelligence for microbiology and microbiome research](https://doi.org/10.1016/j.cels.2026.101531)
+* [Microbiome-based correction for random errors in nutrient profiles](https://doi.org/10.1038/s41467-024-53567-w)
+* [Prediction of colonization outcomes for complex microbial communities](https://doi.org/10.1038/s41467-024-46766-y)
+* [Phage-Host Interaction Discovery from Metagenomic Data](https://doi.org/10.1101/2025.05.26.656232)
+
+Disease diagnostics and COVID-related projects:
+* [Prediction of asthma status based on infants' multi-omics data](https://doi.org/10.1186/s12931-023-02368-8)
+* [The role of intrapartum caesarean delivery on childhood BMI trajectories](https://doi.org/10.1016/j.ebiom.2026.106347)
+* [Data analysis of internal COVID case data for operational purposes at UIUC](https://doi.org/10.1038/s41467-022-30833-3)
+* [The role of stochastic social behavior on COVID-19 dynamics](https://doi.org/10.7554/eLife.68341)
 
 This body of work underscores the integration of ecological theory, multi-omics data, experimental biology, and computational methods to address some of the most pressing questions in microbial ecology and human health.
 
